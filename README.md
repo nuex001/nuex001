@@ -12,6 +12,7 @@
 - 
 ##Skils
 --> Frontend (HTML,CSS3,Reactjs(etherjs,web3js),nextjs).
+  
 --> Backend (PHP,nodeJs,ExpressJs.js).
+
 --> smart contract developement(solidity,hardhat).
---> 
