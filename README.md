@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...[x(Twitter)] @nuelyoungtech
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... animie, and i enjoy coding
--->
+- 
 ##Skils
 --> Frontend (HTML,CSS3,Reactjs(etherjs,web3js),nextjs).
 --> Backend (PHP,nodeJs,ExpressJs.js).
