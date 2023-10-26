@@ -1,16 +1,17 @@
-### Hi there 👋
- I'm emmanuel from Nigeria, software devolper working on web developement, i really enjoy learning languages and frameworks like react,chakra ui and so much more. 💻 Web3 student
+🚀 Smart Contract Developer | MERN Stack Enthusiast 🌐
 
-- 🔭 I’m currently working with ... React, Node & Solidity
-- 🌱 I’m currently learning ... more about web3 space
-- 👯 I’m looking to collaborate on ... Interesting Projects
-- 🤔 I’m looking to help with ... Web dev problems
-- 💬 Ask me about ... and i will google😂
-- 📫 How to reach me: ...[x(Twitter)] @nuelyoungtech
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ... animie, and i enjoy coding
-- 
-##Skils
---> Frontend (HTML,CSS3,Reactjs(etherjs,web3js),nextjs).
---> Backend (PHP,nodeJs,ExpressJs.js).
---> smart contract developement(solidity,hardhat). 
+👋 Welcome to my GitHub! I'm Nuel, a passionate smart contract developer experienced in blockchain technologies, Ethereum, and Solidity. I'm also well-versed in MERN (MongoDB, Express.js, React, Node.js) for full-stack web development.
+
+🌟 Here's what you'll find in my repositories:
+- Solidity and Ethereum smart contracts
+- Web3.js and blockchain-related projects
+- Full-stack web applications with a focus on user-friendly UI/UX
+- Open-source contributions and collaborations
+
+📫 Let's connect and collaborate! Feel free to reach out for project opportunities, code reviews, or just to say hi.
+
+🔗 Connect with me:
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [https://twitter.com/nuelyoungtech]
+
+Happy coding! 🖥️💡
