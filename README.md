@@ -12,7 +12,7 @@
 📫 Let's connect and collaborate! Feel free to reach out for project opportunities, code reviews, or just to say hi.
 
 🔗 Connect with me:
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/emmanuel-ede-a26a862b4/)]
 - Twitter: [https://twitter.com/nuelyoungtech]
 
 Happy coding! 🖥️💡
