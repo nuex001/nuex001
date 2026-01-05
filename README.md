@@ -13,6 +13,6 @@
 
 🔗 Connect with me:
 - LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/emmanuel-ede-a26a862b4/)]
-- Twitter: [https://twitter.com/nuelyoungtech]
+- Twitter: [https://twitter.com/nueltechie]
 
 Happy coding! 🖥️💡
